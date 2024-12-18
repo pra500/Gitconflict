@@ -30,11 +30,7 @@ public class AutoSuggestionTest {
 		driver.get("https://practicetestautomation.com/practice-test-login/");		
 		driver.findElement(By.xpath("//a[normalize-space()='Practice']")).click();		
 		System.out.println(driver.getTitle());		
-		driver.close();
-		
-		
-		
-		
+		driver.close();		
 	}
 	
 	
