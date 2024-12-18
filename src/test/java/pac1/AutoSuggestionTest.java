@@ -33,7 +33,14 @@ public class AutoSuggestionTest {
 		
 		
 		
-		System.out.println(driver.getTitle());	
+		System.out.println(driver.getWindowHandle());
+		
+		
+		
+		System.out.println("hello world");
+		
+		
+		
 		
 		
 		
